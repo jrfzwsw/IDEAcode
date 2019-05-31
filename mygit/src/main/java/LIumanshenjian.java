@@ -4,5 +4,6 @@ public class LIumanshenjian {
 		System.out.println("凌波微步");
 		System.out.println("无量山");
 		System.out.println("琅環福地");
+		System.out.println("鸠摩智来了");
 	}
 }
