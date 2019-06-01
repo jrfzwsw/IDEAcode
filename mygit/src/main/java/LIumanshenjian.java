@@ -6,6 +6,6 @@ public class LIumanshenjian {
 		System.out.println("琅環福地");
 		System.out.println("慕容复也来了");
 		System.out.println("鸠摩智来了");
-		System.out.println("dffdfd");
+		
 	}
 }
